@@ -1,0 +1,24 @@
+{
+  "name": "stackandqueue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasharAlzrigat/StackAndQueue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasharAlzrigat/StackAndQueue/issues"
+  },
+  "homepage": "https://github.com/BasharAlzrigat/StackAndQueue#readme",
+  "dependencies": {
+    "jest": "^29.1.2"
+  }
+}
